@@ -1,0 +1,23 @@
+{
+  "name": "ibook1",
+  "version": "1.0.0",
+  "description": "这是简介",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liujiaxi1026mint/ibook1.git"
+  },
+  "keywords": [],
+  "author": "liujiaxi1026mint",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liujiaxi1026mint/ibook1/issues"
+  },
+  "homepage": "https://github.com/liujiaxi1026mint/ibook1#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
